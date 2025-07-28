@@ -1,0 +1,5 @@
+2025-07-28 10:00:01 INFO Starting service
+2025-07-28 10:00:02 ERROR Failed to connect to database
+2025-07-28 10:00:03 INFO Retrying...
+2025-07-28 10:00:04 WARN Low memory
+2025-07-28 10:00:05 INFO Service started
